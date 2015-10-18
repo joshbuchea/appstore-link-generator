@@ -1,0 +1,55 @@
+body, button, input, select, textarea {
+  /*color: #4d4d4d;*/
+  /*font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;*/
+  /*font-size: 87.5%;*/
+  font-size: 15px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: #fff;
+  color: #333;
+}
+
+.h1, .h2, .h3, .h4, h1, h2, h3, h4 {
+  font-weight: 300;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+h4 {
+  margin-bottom: 2em;
+  color: #c2c2c2;
+}
+
+.input-name {
+  padding: .3em .4em;
+  width: 80%;
+  max-width: 400px;
+}
+
+.links {
+  margin: 30px auto;
+  font-size: 1.5em;
+  color: #4671D5;
+  word-wrap: break-word;
+}
+
+.list-rules {
+  margin: 0 auto 1em auto;
+  max-width: 500px;
+}
+
+.line {
+  margin: 4em auto;
+  max-width: 300px;
+}
+
+.credit {
+  margin-bottom: 2em;
+}
